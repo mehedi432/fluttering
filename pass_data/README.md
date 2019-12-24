@@ -1,16 +1,7 @@
-# pass_data
 
-Passing data from one screen to another. 
+ফ্ল্যাটার এর মধ্যে  আমরা কিভাবে এক পেজ থেকে অন্য পেজ এ ডাটা পাঠাতে পারি ?
+১।  প্রথমেই  আমরা দুইটা ক্লাস ডিক্লেয়ার করবো 
+        - MyHomePage(),
+        - SecondPage()
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+এখন আমরা দেখার চেষ্টা করবো আমরা কিভাবে MyHomePage() ক্লাস থেকে ইনক্রিমেন্ট ভ্যালু SecondPage() এ পাঠাতে পারি 
